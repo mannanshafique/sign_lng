@@ -1,0 +1,13 @@
+0 Hello
+1 Thank You
+2 You
+3 Me
+4 Yes
+5 No
+6 Where
+7 Understand
+8 I love you
+9 Name
+10 Sorry
+11 Please
+12 How
